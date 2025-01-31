@@ -1,6 +1,7 @@
 # Penguin-data-analysis
 <br>
 📈 Key Analyses Conducted
+
 <br>
 
 🔹 1. Exploratory Data Analysis (EDA)<br>
@@ -21,7 +22,8 @@ Built a decision tree model to classify penguins based on their morphological fe
 Evaluated the model using accuracy, precision, recall, and confusion matrix.
 <br>
 
-🔬 Key Findings<br>
+🔬 Key Findings
+<br>
 ✅ Species Differentiation:
 <br>
 Gentoo penguins tend to have the largest body mass and longest flippers.<br>
@@ -36,8 +38,11 @@ Culmen depth is a key identifier in distinguishing between species.
 ✅ Machine Learning Model Performance:
 <br>
 
-The decision tree classifier achieved ~95% accuracy in predicting penguin species based on morphological traits.<br>
-🛠 Technologies Used<br>
+The decision tree classifier achieved ~95% accuracy in predicting penguin species based on morphological traits.
+<br>
+  
+🛠 Technologies Used
+<br>
 R for data manipulation (tidyverse, dplyr, ggplot2)<br>
 Data Visualization (ggplot2, corrplot)<br>
 Statistical Analysis (t-test, ANOVA)<br>
